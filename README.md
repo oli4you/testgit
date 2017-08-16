@@ -1,2 +1,2 @@
 # testgit
-Eeen readme bestand
+Een readme bestand, met heel veel informatie
